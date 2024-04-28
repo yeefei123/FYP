@@ -4,6 +4,10 @@
     "hardhat": "^2.22.3"
   },
   "dependencies": {
-    "dotenv": "^16.4.5"
+    "@react-native-community/datetimepicker": "^8.0.0",
+    "dotenv": "^16.4.5",
+    "nextweb": "^2.0.2",
+    "react-native-date-picker": "^5.0.2",
+    "react-native-image-picker": "^7.1.2"
   }
 }
